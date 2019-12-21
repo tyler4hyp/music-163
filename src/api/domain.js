@@ -1,0 +1,1 @@
+export const domain = 'http://10.0.113.201:8888'
